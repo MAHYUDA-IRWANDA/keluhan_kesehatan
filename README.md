@@ -11,10 +11,10 @@ Berikut adalah informasi persentase penduduk yang melaporkan keluhan kesehatan d
 7. Rokan Hulu: 20,34% penduduk melaporkan keluhan kesehatan.  
 8. Bengkalis: 26,46% penduduk mengalami keluhan kesehatan.  
 9. Rokan Hili: 24,78% penduduk melaporkan keluhan kesehatan.  
-10.Kota Dumai: 18,22% penduduk mengalami keluhan kesehatan.  
-11.Pekanbaru: 24,53% penduduk melaporkan keluhan kesehatan.  
-12.Kepulauan Meranti: 19,36% penduduk mengalami keluhan kesehatan.  
-13.Indragiri Barat: 22,87% penduduk melaporkan keluhan kesehatan.  
+10. Kota Dumai: 18,22% penduduk mengalami keluhan kesehatan.  
+11. Pekanbaru: 24,53% penduduk melaporkan keluhan kesehatan.  
+12. Kepulauan Meranti: 19,36% penduduk mengalami keluhan kesehatan.  
+13. Indragiri Barat: 22,87% penduduk melaporkan keluhan kesehatan.  
 
 Data ini memberikan gambaran variasi kondisi kesehatan masyarakat di Provinsi Riau. Beberapa daerah menunjukkan angka keluhan kesehatan yang lebih tinggi, seperti Indragiri Hulu dan Siak, sementara daerah lain, seperti Kuantan Singingi dan Pelalawan, memiliki angka yang relatif lebih rendah. Informasi ini penting untuk analisis lebih lanjut dan perencanaan intervensi kesehatan masyarakat.
 
